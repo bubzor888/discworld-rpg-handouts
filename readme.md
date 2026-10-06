@@ -6,6 +6,8 @@ There may be some players at the table who have not read Discworld, or at least 
 
 This repo has fan-made handouts that gives a few bullets on the world, Ankh-Morpork and then a species specific section.
 
+Pairs well with the reference sheet in the GM Toolkit
+
 ## The Handouts
 
 Below are the `.pdf` versions of each species mentioned in the core rules + vampire and werewolf. The `.html` version can be found in the [dist](/dist) folder.
