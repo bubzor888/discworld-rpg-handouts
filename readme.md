@@ -1,10 +1,10 @@
+> Note: This is an unofficial fan-made handout for noncommercial tabletop use. Discworld is the creation of Sir Terry Pratchet and the RPG is made by [Modiphius Entertainment](https://modiphius.us/collections/discworld-rpg)
+
 # Discworld Primers
 
 There may be some players at the table who have not read Discworld, or at least be less familiar with certain species.
 
 This repo has fan-made handouts that gives a few bullets on the world, Ankh-Morpork and then a species specific section.
-
-> Unofficial fan-made handout for private tabletop use. Discworld is the creation of Sir Terry Pratche
 
 ## The Handouts
 
@@ -31,5 +31,5 @@ Rare:
 The information here has been pulled from a comination of:
 * [Terry Pratchet lspace Page](https://wiki.lspace.org/Main_Page)
 * [Discworld Fandom Wiki](https://discworld.fandom.com/wiki/Main_Page)
-* The Discworld RPG ([Quickstart](https://www.drivethrurpg.com/en/product/496512/discworld-quickstart-guide-pdf) / [Core Book](https://www.drivethrurpg.com/en/product/578235/discworld-adventures-in-ankh-morpork-digest-edition-core-rulebook-pdf))
+* The Discworld RPG ([Quickstart](https://modiphius.us/collections/discworld-rpg/products/discworld-quickstart-guide-pdf) / [Core Book](https://modiphius.us/collections/discworld-rpg/products/discworld-adventures-in-ankh-morpork-core-rulebook-pdf))
 * My brain (from reading the books)
